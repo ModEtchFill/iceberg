@@ -87,8 +87,7 @@ sudo ln -s $HOME/.docker/run/docker.sock /var/run/docker.sock
 
 ### Engine Compatibility
 
-See the [Multi-Engine Support](https://iceberg.apache.org/multi-engine-support/) page to know about Iceberg compatibility with different Spark, Flink and Hive versions.
-For other engines such as Presto or Trino, please visit their websites for Iceberg integration details.
+See the [Multi-Engine Support](https://iceberg.apache.org/multi-engine-support/) page to know about Iceberg compatibility with different Spark, Flink and Hive versions. For other engines such as Presto or Trino, please visit their websites for Iceberg integration details.
 
 ### Implementations
 
